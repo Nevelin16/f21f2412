@@ -5,7 +5,7 @@ import datetime
 
 # Get from: https://steamcommunity.com/saliengame/gettoken
 TOKEN = "7281033fcfc6f163853f3c23ace5394a"
-STEAMID = "STEAM_0:1:41078733"
+STEAMID = "76561198042423195"
 
 
 s = requests.session()
